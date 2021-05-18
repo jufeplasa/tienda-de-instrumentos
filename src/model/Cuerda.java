@@ -1,5 +1,5 @@
 package model;
-
+  
 public class Cuerda extends Instrumento{
 	
 	public Cuerda () {

@@ -4,7 +4,7 @@ public class Percusion extends Instrumento {
 	private double largo;
 	private double alto;
 	private double ancho;
-	
+	  
 	public Percusion(double largo,double alto,double ancho,String identificador,String ubicacion,String nombre,String direccion,int telefono) {
 		super(identificador,ubicacion,nombre,direccion,telefono);
 		this.setLargo(largo);

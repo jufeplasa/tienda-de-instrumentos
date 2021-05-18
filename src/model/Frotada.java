@@ -8,7 +8,7 @@ public class Frotada extends Cuerda{
 	private double ancho;
 	private int cantCuerdas;
 	
-	
+	  
 	//relaciones
 	private Arco arco;
 	

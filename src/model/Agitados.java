@@ -1,9 +1,9 @@
 package model;
-
+ 
 public class Agitados extends Percusion {
 	private String material;
 	private String nombreInstrumento;
-	
+	 
 	public Agitados() {
 		super();
 		this.setMaterial("plastico");

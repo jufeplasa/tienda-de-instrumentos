@@ -17,5 +17,5 @@ public class Teclado {
 	public String getMaterialTeclado() {
 		return materialTeclado;
 	}
-
+  
 }

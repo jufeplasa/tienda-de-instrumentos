@@ -6,7 +6,7 @@ public class Percutidas extends Cuerda {
 	private double totalLargo;
 	private double totalAlto;
 	private double totalAncho;
-	
+	  
 	//relaciones
 	private Caja caja;
 	private Teclado teclado;

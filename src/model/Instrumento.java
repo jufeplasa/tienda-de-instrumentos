@@ -5,7 +5,7 @@ public class Instrumento {
 	private String  identificador;
 	private Ubicacion localizado;
 	private Distribuidor distribuidor;
-	
+	  
 	public Instrumento(String identificador,String ubicacion,String nombre,String direccion,int telefono){
 		this.identificador=identificador;
 		distribuidor=new Distribuidor(nombre,direccion,telefono); 

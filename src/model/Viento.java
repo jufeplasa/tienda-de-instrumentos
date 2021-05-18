@@ -14,7 +14,7 @@ public class Viento  extends Instrumento {
 		this.setAlto(4.3);
 		this.setAncho(3.2);
 		this.setMaterial("marfil");
-	}
+	}  
 	
 	public Viento(String nombreInstrumento,double largo,double alto,double ancho,String material,String identificador,String ubicacion,String nombre,String direccion,int telefono) {
 		super(identificador,ubicacion,nombre,direccion,telefono);

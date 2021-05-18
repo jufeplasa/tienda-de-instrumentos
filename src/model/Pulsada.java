@@ -1,5 +1,5 @@
 package model;
-
+ 
 public class Pulsada extends Cuerda {
 	//atributos
 	private String nombreInstrumento;

@@ -1,5 +1,5 @@
 package model;
-
+  
 public class Caja {
 	//atributos
 	private double largo;

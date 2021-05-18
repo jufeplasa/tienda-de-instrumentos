@@ -5,7 +5,7 @@ public class Main {
 	
 	private Scanner leer;
 	
-	//relacion
+	//relacion 
 	private Almacen tienda;
 	
 	public Main(){

@@ -1,5 +1,5 @@
 package model;
-
+  
 public class Distribuidor {
 	private String nombre;
 	private String direccion;
